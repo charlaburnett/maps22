@@ -78,10 +78,10 @@ form {
 
 .logo {
   position: fixed;
-  height: 40%;
-   z-index: 1000;
-padding-top: 420px;
-padding-left: 40px;
+  height: 60%;
+   z-index: 1001;
+padding-top: 450px;
+padding-left: 50px;
   opacity: 1;
       filter: alpha(opacity=100);
 }
